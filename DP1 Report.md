@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="team-mapping-the-world-dp1">Team “Mapping the World” (DP1)</h1>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ol>
