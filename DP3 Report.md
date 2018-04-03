@@ -224,12 +224,25 @@ As a Facilitator:</p>
 </li>
 <li>
 <p><strong>Difficulties Faced:</strong></p>
+<ul>
+<li>As a computer, the biggest difficulty was knowing what to do when a user made an “undefined” action such as clicking a button we didn’t make a prototype or landing page for. Also the physical task of handling the different papers and post-it notes were more difficult than expected. Being an efficient computer was difficult, so the user was kept waiting sometimes. Playing the role of observer, there were not too many notable difficulties to list. Maybe it was difficult to keep up with the pace of the experiment and typing the observations. Playing the role of facilitator, I found it difficult to know exactly how much direction to give to my participant. I had a hard time deciding on whether I should tell them exactly which buttons to click or just have them “figure it out”.</li>
+</ul>
 </li>
 <li>
 <p><strong>In what way was paper prototyping useful in your project?</strong></p>
+<ul>
+<li>Firstly, it was useful to implement features that might be difficult to implement in a computer prototype, such as autocomplete for the user’s search feature. We could implement this instantly via a human computer.</li>
+<li>Secondly, the pace of creation was faster than expected and we could debate quickly about the placement of features on our web app rather than dealing with the technical implementations.</li>
+<li>Also, post-its were very useful because we could use one “base model” of a page and modify little aspects of it with post-it notes, and present it as a new page.</li>
+</ul>
 </li>
 <li>
 <p><strong>What did your paper prototype not cover or test?</strong></p>
+<ul>
+<li>Because of our team’s limited artistic assets, the minimum threshold for understanding some pictures was not met. In other words, when I tried to draw an icon of a baseball to represent a batting cage, the participant could not interpret my image. If this were done on a computer, the participant might have immediately recognized it. So while one of our solution ideas was to test if pictorial representations in a map were better than text-based representations, we could not completely “prove” the efficacy of this idea due to our artistic abilities.</li>
+<li>I think that our artistic abilities also carried on into the overall user interface and not just the pictures I mentioned above. For example, in our main screen, it may not be clear what buttons are available maybe because of the black and white palette used. Though we could have colored our prototype, we tried to focus on a high-fidelity in breadth prototype rather than by depth.</li>
+<li>In terms of functionality of every button, they were covered sufficiently in my opinion.</li>
+</ul>
 </li>
 </ul>
 <p><strong>Kevin:</strong></p>
@@ -250,14 +263,15 @@ As a Facilitator:</p>
 <ul>
 <li>Our paper prototype gave good understanding of our current standing and our future plans as we could get opinion on our implementation by a sample of the user population.</li>
 <li>We could understand what we needed to edit (for instance, merging of two maps as suggested by Participant 2).</li>
+<li>Also, as altering contents of the paper prototype could be done with low cost, it was efficient to change the prototype after the observation</li>
 </ul>
 </li>
 <li><strong>What did your paper prototype not cover or test?</strong>
 <ul>
 <li>Our paper prototype didn’t cover the implementation details of our map.</li>
-<li>Our paper prototype focused on covering the three predefined tasks and lacked other features. (Lack breath)</li>
-<li>Our paper prototype lacked coverage on the color schemes and the precise layout of our implementation. (Low fidelity in look)</li>
-<li>Our paper prototype lacked actual <strong>feel</strong> of the users as events were handled by the “human computer”</li>
+<li>Our paper prototype focused on covering the three predefined tasks and didn’t test other features. (Lack breath)</li>
+<li>Our paper prototype didn’t test the coverage on the color schemes and the precise layout of our implementation. (Low fidelity in look)</li>
+<li>Our paper prototype didn’ test the <strong>feel</strong>  as events were handled by the “human computer.”</li>
 </ul>
 </li>
 </ul>
