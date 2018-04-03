@@ -55,6 +55,14 @@
 <h2 id="participants">Participants</h2>
 <ul>
 <li>
+<p><strong>Criteria for choosing the participants:</strong></p>
+<ul>
+<li>As the implementation location for our map website was KAIST,  we tried to find participants who frequently visit buildings of KAIST.</li>
+<li>Furthermore, our participants had all stated that they need to visit an unknown building in KAIST at least once a month due to the professor’s office hours being in an obscure place (i.e. N24) or an event (i.e. W8), or other reasons and they had difficulties finding the location indoors.</li>
+<li>Therefore, we believe that the participants are close to the target user groups because they all mirror the <strong>motivation</strong> of our <strong>persona</strong>, as they had to spend lots of time to search for [their] destination by being dependent on indoor maps with low usability and people who usually give vague directions." Also, our participants mirror the <strong>preferences</strong> and <strong>goals</strong> of our <strong>persona</strong> too.</li>
+</ul>
+</li>
+<li>
 <p><strong>Participant 1 (P1) :</strong> Male (18), EE, From Kazakhstan</p>
 <ul>
 <li>Facilitator: Azamat</li>
@@ -99,27 +107,27 @@ Our prototype is designed specifically for <strong>indoor mapping</strong> and <
 <ul>
 <li>(Medium) A tutorial / help feature would’ve been nice (P1)
 <ul>
-<li>a</li>
+<li>We plan to include a widget button in the home screen, dedicated to help the user understand the interface/make the first screen a “help” screen.</li>
 </ul>
 </li>
 <li>(Medium) An undo button for the actions taken would’ve been nice (P1)
 <ul>
-<li>a</li>
+<li>Save the history of actions performed by the user and allow them to reverse their previous action with the help of back button.</li>
 </ul>
 </li>
 <li>(High) Real time update of position finding was difficult (P1)
 <ul>
-<li>a</li>
+<li>In general, this suggestions is to change the static representation of the map to dynamic one. This can be done by adding some animations to the path trace. We will try to implement the real time update of position, although it seems infeasible to implement given current technology constraints.</li>
 </ul>
 </li>
 <li>(Medium) Reason for having QR code as the first screen in the map was confusing (P3)
 <ul>
-<li>a</li>
+<li>We could consider changing the first screen entirely. Since the purpose of having a QR code is to locate the user’s current location, we could also consider a different way for the user to establish their current location (by just typing it for example).</li>
 </ul>
 </li>
 <li>(Low) Button for changing floors would be better if simplified(P3)
 <ul>
-<li>a</li>
+<li>We noticed that changing floors was unintuitive in our route map. So we will rethink how we present the floors in our route map in addition to including a button for changing floors.</li>
 </ul>
 </li>
 </ul>
@@ -127,66 +135,83 @@ Our prototype is designed specifically for <strong>indoor mapping</strong> and <
 <ul>
 <li>(Medium) Lack of uniformity of search bar features (P1)
 <ul>
-<li>a</li>
+<li>This comment means that there were too many forms of input to find a destination (search bar, list of destinations, categories, even QR code for getting user’s current location). P1 noted that they were overwhelmed and were not sure exactly what to do. We will reconsider better organizing our home page to make it more clear what action the user can take. Our home page was loaded with many buttons and inputs for one function: getting the user’s end goal. We will make the home page much simpler and straightforward rather than presenting all information on one page.</li>
 </ul>
 </li>
 <li>(Low) Can improve interface by showing if the café is open for business or not (when showing the overall list) (P2)
 <ul>
-<li>a</li>
+<li>Could be implemented by dedicating a new page or small info box for every room to show such extraneous information (like cafe opening hours).</li>
 </ul>
 </li>
 <li>(Medium) Hard to distinguish between images in the map if the same icon is used for similar purpose rooms (P2)
 <ul>
-<li>a</li>
+<li>Instead of completely relying on pictorial representation in the map, we could add text when absolutely necessary (such as differentiating between seminar rooms and classrooms, two rooms with similar icons on our map).</li>
 </ul>
 </li>
 <li>(High) Time-consuming to have to go to a different window to edit search. Why not have a search bar on the same window as the map but hidden until a button is clicked? (P3)
 <ul>
-<li>a</li>
+<li>We could have the search bar available at the top of every screen, not just the home screen.</li>
 </ul>
 </li>
 </ul>
 <p><strong>Task 3:</strong> “Locate a place in your current floor that you want to visit”</p>
 <ul>
-<li>(Medium) Better distinction between rooms would’ve been better (P1)
-<ul>
-<li>a</li>
-</ul>
-</li>
-<li>(High) Combination of text and logo/icons would’ve been better in the feature map (P1)
-<ul>
-<li>a</li>
-</ul>
-</li>
 <li>(High) Confused why there was two different maps (route map and feature map) (P2)
 <ul>
-<li>a</li>
+<li>The obvious solution would be to use one map at all times (for both route finding and general search of features in the area). We will reconsider the exact interface for maintaining all user’s actions on one map instead of separating maps by task.</li>
 </ul>
 </li>
 <li>(Medium) A overall list of features available in text instead of the map would’ve been better. (P3)
 <ul>
-<li>a</li>
+<li>We will add a button to access a list of all features in a building in text form (not just a pictorial map).</li>
 </ul>
 </li>
 <li>(Medium) Icons for the sporting range weren’t that intuitive (had difficulty recognizing first) (P1)
 <ul>
-<li>a</li>
+<li>Consider including images of the actual location rather than icons. Or make the icons more recognizable. Perhaps in the lo-fi prototype our drawings of the icons were very poor, so this might not be an issue in later stages.</li>
 </ul>
 </li>
 </ul>
 <h2 id="individual-reflections">Individual Reflections</h2>
 <p><strong>Andrew:</strong></p>
 <ul>
-<li><strong>Roles:</strong>
+<li>
+<p><strong>Roles:</strong></p>
 <ul>
 <li>Facilitator: P3</li>
 <li>Computer: P1</li>
 <li>Observer: P2</li>
 </ul>
 </li>
-<li><strong>Difficulties Faced:</strong></li>
-<li><strong>In what way was paper prototyping useful in your project?</strong></li>
-<li><strong>What did your paper prototype not cover or test?</strong></li>
+<li>
+<p><strong>Difficulties Faced:</strong><br>
+As a Facilitator:</p>
+<ul>
+<li>Giving indirect hints that rendered participants to finish tasks on their own</li>
+<li>Being sure that observer is fully understanding the feedback given by the participant and taking according notes</li>
+</ul>
+<p>As a Computer:<br>
+- Responding quickly to the user’s commands, because the prototype had many screens<br>
+- Responding to unexpected commands when user tried to test the prototype further by performing other tasks<br>
+-  Maintaining all the screens ready for the next call, like clearing the search box input</p>
+</li>
+<li>
+<p><strong>In what way was paper prototyping useful in your project?</strong></p>
+<ul>
+<li>We immediately started sketching our prototype, even if we did not have a clear picture of it.</li>
+<li>We modified it along the way, because the finished parts gave us new ideas on implementing next parts. To be more specific, we learned by doing. Moreover, it was easy to edit existing parts if we came up with better ideas.</li>
+<li>We have reused the same map screen for different purposes with the help of post-its.</li>
+<li>We did not have to create many map screen for different tasks. Participants knew that they are testing the paper prototype, therefore they were not distracted by such limitations as well as by the visual representations of our screens</li>
+</ul>
+</li>
+<li>
+<p><strong>What did your paper prototype not cover or test?</strong></p>
+<ul>
+<li>One of the features that we want to add to our map is pictorial representations that give clearer understanding of the place. However, we could only use approximate representations, therefore, we did not test if this feature is really helpful.</li>
+<li>Even though we specified tasks in a way that made people to use all the features that we had, users still managed to perform tasks by using only limited amount of them. The possible explanations for this might be that users did not recognize purposes of certain features, which could have been more noticable if they had better visual representations.</li>
+<li>Basically, we need to sketch the route between two places. In the paper prototype this was done manually. As a result we always had a correct trace and the most efficient one. However, in the real implementation this might not be the case every time. In general, factors like response time or efficiency of the app were not tested.</li>
+</ul>
+</li>
 </ul>
 <p><strong>Azamat:</strong></p>
 <ul>
@@ -208,9 +233,26 @@ Our prototype is designed specifically for <strong>indoor mapping</strong> and <
 <li>Observer: P1, P3</li>
 </ul>
 </li>
-<li><strong>Difficulties Faced:</strong></li>
-<li><strong>In what way was paper prototyping useful in your project?</strong></li>
-<li><strong>What did your paper prototype not cover or test?</strong></li>
+<li><strong>Difficulties Faced:</strong>
+<ul>
+<li>As real time update of position for the participant while the users were using the route-finding feature in Task 1 was not possible, it was difficult as a facilitator to make the user understand his current task and make the user stay on task.</li>
+<li>Writing observations was also difficult as I had to classify the severity of the feedback and translate the comments to proper English.</li>
+</ul>
+</li>
+<li><strong>In what way was paper prototyping useful in your project?</strong>
+<ul>
+<li>Our paper prototype gave good understanding of our current standing and our future plans as we could get opinion on our implementation by a sample of the user population.</li>
+<li>We could understand what we needed to edit (for instance, merging of two maps as suggested by Participant 2).</li>
+</ul>
+</li>
+<li><strong>What did your paper prototype not cover or test?</strong>
+<ul>
+<li>Our paper prototype didn’t cover the implementation details of our map.</li>
+<li>Our paper prototype focused on covering the three predefined tasks and lacked other features. (Lack breath)</li>
+<li>Our paper prototype lacked coverage on the color schemes and the precise layout of our implementation. (Low fidelity in look)</li>
+<li>Our paper prototype lacked actual <strong>feel</strong> of the users as events were handled by the “human computer”</li>
+</ul>
+</li>
 </ul>
 <h2 id="studio-comments">Studio Comments</h2>
 <ol>
