@@ -95,19 +95,117 @@ Our prototype is designed specifically for <strong>indoor mapping</strong> and <
 <li>Locate a place in your current floor that you want to visit.</li>
 </ol>
 <h2 id="observations">Observations</h2>
-<ol>
-<li>as</li>
-<li>ss</li>
-</ol>
+<p>**Task 1: ** “Find the route to “Professor Juho Kim’s office” in respect to your current destination.”</p>
+<ul>
+<li>(Medium) A tutorial / help feature would’ve been nice (P1)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(Medium) An undo button for the actions taken would’ve been nice (P1)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(High) Real time update of position finding was difficult (P1)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(Medium) Reason for having QR code as the first screen in the map was confusing (P3)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(Low) Button for changing floors would be better if simplified(P3)
+<ul>
+<li>a</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 2:</strong> “Find a list of nearby cafes and route to your preferred one”</p>
+<ul>
+<li>(Medium) Lack of uniformity of search bar features (P1)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(Low) Can improve interface by showing if the café is open for business or not (when showing the overall list) (P2)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(Medium) Hard to distinguish between images in the map if the same icon is used for similar purpose rooms (P2)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(High) Time-consuming to have to go to a different window to edit search. Why not have a search bar on the same window as the map but hidden until a button is clicked? (P3)
+<ul>
+<li>a</li>
+</ul>
+</li>
+</ul>
+<p><strong>Task 3:</strong> “Locate a place in your current floor that you want to visit”</p>
+<ul>
+<li>(Medium) Better distinction between rooms would’ve been better (P1)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(High) Combination of text and logo/icons would’ve been better in the feature map (P1)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(High) Confused why there was two different maps (route map and feature map) (P2)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(Medium) A overall list of features available in text instead of the map would’ve been better. (P3)
+<ul>
+<li>a</li>
+</ul>
+</li>
+<li>(Medium) Icons for the sporting range weren’t that intuitive (had difficulty recognizing first) (P1)
+<ul>
+<li>a</li>
+</ul>
+</li>
+</ul>
 <h2 id="individual-reflections">Individual Reflections</h2>
-<p><strong>Andrew:</strong><br>
-<strong>Azamat:</strong><br>
-<strong>Kevin:</strong></p>
+<p><strong>Andrew:</strong></p>
 <ul>
 <li><strong>Roles:</strong>
 <ul>
-<li>Observer: P1, P3</li>
+<li>Facilitator: P3</li>
+<li>Computer: P1</li>
+<li>Observer: P2</li>
+</ul>
+</li>
+<li><strong>Difficulties Faced:</strong></li>
+<li><strong>In what way was paper prototyping useful in your project?</strong></li>
+<li><strong>What did your paper prototype not cover or test?</strong></li>
+</ul>
+<p><strong>Azamat:</strong></p>
+<ul>
+<li><strong>Roles:</strong>
+<ul>
+<li>Facilitator: P1</li>
+<li>Computer: P2, P3</li>
+</ul>
+</li>
+<li><strong>Difficulties Faced:</strong></li>
+<li><strong>In what way was paper prototyping useful in your project?</strong></li>
+<li><strong>What did your paper prototype not cover or test?</strong></li>
+</ul>
+<p><strong>Kevin:</strong></p>
+<ul>
+<li><strong>Roles:</strong>
+<ul>
 <li>Facilitator: P2</li>
+<li>Observer: P1, P3</li>
 </ul>
 </li>
 <li><strong>Difficulties Faced:</strong></li>
