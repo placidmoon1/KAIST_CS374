@@ -173,14 +173,13 @@ Our prototype is designed specifically for <strong>indoor mapping</strong> and <
 </li>
 </ul>
 <h2 id="individual-reflections">Individual Reflections</h2>
-<p><strong>Andrew:</strong></p>
+<p><strong>Azamat:</strong></p>
 <ul>
 <li>
 <p><strong>Roles:</strong></p>
 <ul>
-<li>Facilitator: P3</li>
-<li>Computer: P1</li>
-<li>Observer: P2</li>
+<li>Facilitator: P1</li>
+<li>Computer: P2, P3</li>
 </ul>
 </li>
 <li>
@@ -213,17 +212,25 @@ As a Facilitator:</p>
 </ul>
 </li>
 </ul>
-<p><strong>Azamat:</strong></p>
+<p><strong>Andrew:</strong></p>
 <ul>
-<li><strong>Roles:</strong>
+<li>
+<p><strong>Roles:</strong></p>
 <ul>
-<li>Facilitator: P1</li>
-<li>Computer: P2, P3</li>
+<li>Facilitator: P3</li>
+<li>Computer: P1</li>
+<li>Observer: P2</li>
 </ul>
 </li>
-<li><strong>Difficulties Faced:</strong></li>
-<li><strong>In what way was paper prototyping useful in your project?</strong></li>
-<li><strong>What did your paper prototype not cover or test?</strong></li>
+<li>
+<p><strong>Difficulties Faced:</strong></p>
+</li>
+<li>
+<p><strong>In what way was paper prototyping useful in your project?</strong></p>
+</li>
+<li>
+<p><strong>What did your paper prototype not cover or test?</strong></p>
+</li>
 </ul>
 <p><strong>Kevin:</strong></p>
 <ul>
