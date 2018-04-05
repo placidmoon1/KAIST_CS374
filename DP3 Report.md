@@ -4,6 +4,7 @@
 ---
 
 <h1 id="dp-3-paper-prototyping">DP 3: Paper Prototyping</h1>
+<h3 id="by-andrew-azamat-gu-hong-kevin">By: Andrew, Azamat, Gu Hong (Kevin)</h3>
 <h2 id="prototype">Prototype</h2>
 <h3 id="paper-prototype-01">Paper Prototype 01</h3>
 <ul>
@@ -103,7 +104,7 @@ Our prototype is designed specifically for <strong>indoor mapping</strong> and <
 <li>Locate a place in your current floor that you want to visit.</li>
 </ol>
 <h2 id="observations">Observations</h2>
-<p>**Task 1: ** “Find the route to “Professor Juho Kim’s office” in respect to your current destination.”</p>
+<p><strong>Task 1:</strong> “Find the route to “Professor Juho Kim’s office” in respect to your current destination.”</p>
 <ul>
 <li>(Medium) A tutorial / help feature would’ve been nice (P1)
 <ul>
