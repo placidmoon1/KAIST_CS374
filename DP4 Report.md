@@ -40,7 +40,6 @@
 <li><strong>Representative screenshots:</strong><br>
 <img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292787286/1/latest/gJmZYNij0xhbTo6fkvCTPrUQBMhDwzgpE3JdqGjQniFlgSeO91pJalEqPuUUaXUcADHgotvhVg5aiYNe5lFeW3QlE/Screen-Shot-2018-04-22-at-10.48.50-PM.png" alt="enter image description here"></li>
 </ul>
-<p><img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292787287/1/latest/4HG2zm1RWy0mlExfdr4v15qN1YZ1j6SMfj4xSJbnWJtJoAhoHrLPltbRIWrTt1oRWgK25hiHOyEoDqw20eaiHzglE/Screen-Shot-2018-04-22-at-10.49.05-PM.png" alt="enter image description here"></p>
 <p><img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292787288/1/latest/ACMU807m56lEuvPdhVu8qH39rNlEiHUhzVlhnT8lEh4srlEbPq9uylAVjn0vm5jCEEd5kteu8tQ6RlEbloDAZDRSv6AlE/Screen-Shot-2018-04-22-at-10.49.46-PM.png" alt="enter image description here"></p>
 <p><img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292787289/1/latest/0NEhxKebTbqj8vRMm8PcYrwMkaBb8NVKSOy2sjPIgFFbEl5Vbbkdsdiz4TjKNiudyq31zrdyaQyXyExQxWdCcAlE/Screen-Shot-2018-04-22-at-10.49.58-PM.png" alt="enter image description here"></p>
 <p><img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292787290/1/latest/JJR1K1Lndf6IRgePQralrlLkaR1oBnnhMvns6WuYqa7yeglEnhF9zilHPmRha5vtZ473BPNxsGe86mlELSTTOMQglE/Screen-Shot-2018-04-22-at-10.50.16-PM.png" alt="enter image description here"></p>
