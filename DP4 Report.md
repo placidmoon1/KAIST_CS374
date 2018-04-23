@@ -13,22 +13,29 @@
 <li>It’d be game-changing to help him find his destination faster while minimizing the effort in doing so.</li>
 </ul>
 <h3 id="tasks">Tasks</h3>
-<p>Tasks <strong>remain the same</strong> as the paper prototype since we thought that the previously defined tasks <strong>encapsulate numerous features</strong> of our prototype.</p>
-<ul>
-<li>Find the route to (the fictional) “Professor Juho Kim’s office” in respect to your current location.</li>
-<li>Find a list of nearby cafes and route to your preferred one.</li>
-<li>Locate a place in your current floor that you want to visit.</li>
-</ul>
+<p>Tasks are <strong>radically different</strong> than the paper prototype so that we can have user testing of our <strong>newly created feature</strong> –  <strong>user-created tasks</strong> – and receive many feedback and note observations.</p>
+<ol>
+<li>Find the location of a specific type of general amenities (i.e. Cafés)</li>
+<li>Find the location of a user created event.</li>
+<li>Create a user-created event</li>
+</ol>
 <h2 id="prototype">Prototype</h2>
 <ul>
-<li>Link to prototype: <a href="https://invis.io/PEGQFWHWBVX">https://invis.io/PEGQFWHWBVX</a></li>
-<li>Prototyping tool:
+<li><strong>Link to prototype:</strong> <a href="https://invis.io/PEGQFWHWBVX">https://invis.io/PEGQFWHWBVX</a></li>
+<li><strong>Prototyping tool:</strong>
 <ul>
-<li>Marvel App: Used to create the digital template for every screen.</li>
-<li>InVision:  Used to link all the digital template created in Marvel App and add events to associate the templates</li>
+<li><strong>Marvel App:</strong> Used to create the digital template for every screen.</li>
+<li><strong>InVision:</strong>  Used to link all the digital template created in Marvel App and add events to associate the templates</li>
 </ul>
 </li>
-<li>Design Choices:</li>
+<li><strong>Design Choices:</strong>
+<ul>
+<li>Only implemented the most basic yet essential things that the user can follow to conduct the three tasks.</li>
+<li>Manual algorithm is implemented. The user needs to <strong>strictly</strong> follow the predesigned algorithm in order to complete the tasks.</li>
+<li>There are dummy buttons that is not programmed with events. These are for design and layout purposes that will be eventually implemented in mid-fi prototype and beyond.</li>
+<li>Cannot</li>
+</ul>
+</li>
 <li>Representative screenshots:</li>
 <li>Instructions:</li>
 </ul>
