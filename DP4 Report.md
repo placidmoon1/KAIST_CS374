@@ -34,9 +34,10 @@
 <li>Manual algorithm is implemented. The user needs to <strong>strictly</strong> follow the predesigned algorithm in order to complete the tasks.</li>
 <li>There are dummy buttons that is not programmed with events. These are for design and layout purposes that will be eventually implemented in mid-fi prototype and beyond.</li>
 <li>Could not receive input of current location in the lo-fi prototype as the prototyping tool that our team used didn’t allow text inputs / qr code inputs . Rather, we had a fixed current location.</li>
+<li>Current location was only received through the simulated QR Code. The QR code screen can be changed only if a button is clicked. Normal behavior of a QR input screen is automatic change once QR code data is read. However, as that cannot be simulated, we added a manual button that, when clicked, would move on to the next page.</li>
 </ul>
 </li>
-<li>Representative screenshots:<br>
+<li><strong>Representative screenshots:</strong><br>
 <img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292787286/1/latest/gJmZYNij0xhbTo6fkvCTPrUQBMhDwzgpE3JdqGjQniFlgSeO91pJalEqPuUUaXUcADHgotvhVg5aiYNe5lFeW3QlE/Screen-Shot-2018-04-22-at-10.48.50-PM.png" alt="enter image description here"></li>
 </ul>
 <p><img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292787287/1/latest/4HG2zm1RWy0mlExfdr4v15qN1YZ1j6SMfj4xSJbnWJtJoAhoHrLPltbRIWrTt1oRWgK25hiHOyEoDqw20eaiHzglE/Screen-Shot-2018-04-22-at-10.49.05-PM.png" alt="enter image description here"></p>
@@ -49,7 +50,23 @@
 <p><img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292788114/1/latest/kXlEH0S9lECllOlEH4Wrvs5eS4B4RoRezlE6PdFUHPyVyvpoJzB9ZnlE2p3KOcix8DARRpot7sHszzWVjqyB8SeE8AlE/Screen-Shot-2018-04-22-at-11.15.58-PM.png" alt="enter image description here"></p>
 <p><img src="https://projects.invisionapp.com/static-signed/live-embed/250474546/292788115/1/latest/ZYcC2DZeOlEBqampDEz8XVLnalE0EMahKlErCLtC5xjS8XlExlEBD4Ua3674XlEMTFDBlNQOMygMylEqWe7w6nialEBiHwlE/Screen-Shot-2018-04-22-at-11.16.10-PM.png" alt="enter image description here"></p>
 <ul>
-<li>Instructions:</li>
+<li>Instructions:
+<ul>
+<li>Task 1:  Find the location of a cafe in the building
+<ul>
+<li>Home (START) --&gt; Scan QR Code --&gt; Click Coffee Icon --&gt; Click Cafe Gran --&gt; See the Route! (END)</li>
+</ul>
+</li>
+<li>Task 2: Find the location of a user-created event
+<ul>
+<li>Home (START) --&gt; Scan QR Code --&gt; Click User-Created Events on the navigation bar of the page --&gt; Click KAIST KALDI … --&gt; See the Route! (END)</li>
+</ul>
+</li>
+<li>
+<h2 id="task-3-create-a-user-created-event">Task 3: Create a user-created event</h2>
+</li>
+</ul>
+</li>
 </ul>
 <h2 id="observations">Observations</h2>
 <ol>
