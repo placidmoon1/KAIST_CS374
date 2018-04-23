@@ -54,16 +54,18 @@
 <ul>
 <li>Task 1:  Find the location of a cafe in the building
 <ul>
-<li>Home (START) --&gt; Scan QR Code --&gt; Click Coffee Icon --&gt; Click Cafe Gran --&gt; See the Route! (END)</li>
+<li>Home (START) --&gt;  Click Take a picture of QR Code --&gt;Click Take Picture --&gt; Click Coffee Icon --&gt; Click Cafe Gran --&gt; See the Route! (END)</li>
 </ul>
 </li>
 <li>Task 2: Find the location of a user-created event
 <ul>
-<li>Home (START) --&gt; Scan QR Code --&gt; Click User-Created Events on the navigation bar of the page --&gt; Click KAIST KALDI … --&gt; See the Route! (END)</li>
+<li>Home (START) --&gt; Click Take a picture of QR Code --&gt; Click Take Picture–&gt; Click User-Created Events on the navigation bar of the page --&gt; Click KAIST KALDI … --&gt; See the Route! (END)</li>
 </ul>
 </li>
-<li>
-<h2 id="task-3-create-a-user-created-event">Task 3: Create a user-created event</h2>
+<li>Task 3: Create a user-created event
+<ul>
+<li>Home(Start) --&gt; Click Create a New Event --&gt; Click Submit</li>
+</ul>
 </li>
 </ul>
 </li>
