@@ -63,26 +63,78 @@
 </li>
 <li>Task 3: Create a user-created event
 <ul>
-<li>Home(Start) --&gt; Click Create a New Event --&gt; Click Submit</li>
+<li>Home (START) --&gt; Click Take a picture of QR Code --&gt; Click Take Picture–&gt; Click Create Event on the navigation bar of the page  --&gt; DONE (Submission of a user-created event is not implemented yet)</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 <h2 id="observations">Observations</h2>
+<p>*Names are aliases</p>
+<p><strong>P1:</strong> Bun: Thailand, Computer Science Sophomore, Male<br>
+<strong>P2:</strong> Anuar: Kazakhstan, Electrical Engineering Sophomore, Male<br>
+<strong>P3:</strong> Eli: Korean, Mechanical Engineering Sophomore, Male<br>
+Class:</p>
+<p>Theme 1: <strong>Problems with outlining the purpose of specific functionalities:</strong></p>
 <ol>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
+<li>
+<p>[P1] Medium. Ambiguity in the purpose of “User-Created Events” tab. It seems like it consists of events the users themselves created, not events created by other people. Solution: Change the title of this tab to “Events” or other name.</p>
+</li>
+<li>
+<p>[P2] Medium. Application flow is not intuitive from the first screen. Moreover, there is no brief description of the app as well. Solution: We have a “question” mark at the bottom of the first screen, we may dedicate it to contain brief information or we may add quick tutorial when the website is opened for the first time.</p>
+</li>
+<li>
+<p>[P1] High. If user just wants to create an event, it is not clear how to proceed after the main screen. Solution: We may consider adding tabs to the main screen as well. It could contain “Crate Event” tab for example.</p>
+</li>
+<li>
+<p>[P3] The  purpose of the layer button in the map screen was confusing as it was a dummy button without any functionalities. Solution: Provide layers of different informations when implementing mid-fi prototype.</p>
+</li>
+</ol>
+<p>Theme 2: <strong>Problems with the aesthetic look of the application:</strong></p>
+<ol>
+<li>
+<p>[P1] Low. The “Search” bar on the first screen is unnoticeable and should stand out more. Solution: We may make it larger or choose more noticeable color.</p>
+</li>
+<li>
+<p>[P1] Low. “From: ” and “To: “ buttons on the map are unnoticeable. Solution: The same as observation about “Search” bar, we may make buttons larger or choose more noticeable color.</p>
+</li>
+<li>
+<p>[P3] Medium. The “map” does not portray information in regards to the real world and there is no button (or at least P3 couldn’t find one) that can be used to change the floor that the map is portraying. Solution: In the mid-fi prototype and on, have a button that can be used to change floors &amp; have a map that portrays a real world building’s floors with accurate scaling.</p>
+</li>
+<li>
+<p>[Class] Medium. Amenities screen contains various icons such as black/white, colored, pictures which makes it internally inconsistent. Moreover, specific pictures add more ambiguity to the destination place. Solution: We will try to generalize all the amenities and come up with one specific style, using black/white might be one option, because we can always convert colored icons black/white ones.</p>
+</li>
+</ol>
+<p>Theme 3: <strong>Problems, resolving which might improve the learnability and efficiency:</strong></p>
+<ol>
+<li>
+<p>[P1] Medium. Amenities screen contains too specific icons, for example, “donut” icon. It is not clear if that place sells only donuts or desserts in general. Solution: We will choose more general icons to describe amenities. For this specific case, we may consider choosing icon that contains multiple types of desserts.</p>
+</li>
+<li>
+<p>[P2] Low. “User-Created Events” screen consists of events in multiple buildings. User might prefer to see events in current building they’re in. Moreover, it needs more organization. Solution: We may consider showing only events in the current building and organize according to the feedbacks or according to the dates of the events.</p>
+</li>
+<li>
+<p>[Class] Medium. There is no way back after clicking “Take QR Code” button. Solution: The most trivial solution is to add “back” button to the screen. Moreover, we will consider User Control and try to add “back” button where they are applicable.</p>
+</li>
+<li>
+<p>[Class] Low. “Create Event” contains text inputs with placeholders that disappears when someone starts typing, which makes them remember the type of field. Solution: We may add extra labels above each placeholder, which appear when someone starts typing.</p>
+</li>
+<li>
+<p>[P2] High. “Homepage” button is not safe. If user taps it, user loses the current building’s map and progress so far. Solution: We should add error prevention feature to the “Homepage” button, which could be a pop up message with brief description of possible loss and confirmation button.</p>
+</li>
+<li>
+<p>[P3] Medium. How the map is updated is not clear. Solution: As real-time update of maps in indoor location is difficult, we implemented a manual update of location through the button in the bottom left corner in the map screen.</p>
+</li>
+<li>
+<p>[P3] Medium. As of the current, cannot enter the location of the building if one doesn’t have a QR code. Solution: We’ll implement “enter location through text” in the mid-fi prototype and on.</p>
+</li>
 </ol>
 <h2 id="paper-vs-digital">Paper vs Digital</h2>
+<ol>
+<li>There are multiple ways of finding specific destination in the digital prototype. For example, user might use the search bar or icons on the amenities menu. When we used paper prototype, <strong>our participants</strong> often used only one way to find their destination, without even recognizing other ways. (They only used search bar) We regarded this as a fault of a paper prototype, because, certain icons, buttons might have been drawn in unrecognizable way. However, with digital prototype users often tended to use amenities icons rather than the search bar, and helped to find issues regarding these icons.</li>
+<li>Our paper prototype was somewhat limited to perform only specified tasks. However, in our digital prototype we changed certain tasks, and we had to merge everything into whole application. That way we identified other efficiency issues. Also, it was easier to receive feedback from the <strong>participants</strong> in the <strong>events</strong> as one can repeatedly observe the events just by clicking. For example, the “Home” button, it is critical to add error prevention features to it. Moreover, there we identified that we need to add “Create Event” tab to the main screen as well.</li>
+<li></li>
+</ol>
 <h2 id="studio-reflections">Studio Reflections</h2>
 <ol>
 <li>We were asked if <strong>QR codes was the only source of entering the location.</strong> Although there were two sources of input of location ( QR code and text input), it appeared it wasn’t clear for the users. For future implementation, we would try to use clear icons for location input that approaches to the users in an intuitive manner.</li>
